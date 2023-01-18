@@ -5,7 +5,7 @@ int main()
 {
     int n=5;
     int A[5]={1,2,3,4,5};
-    int k=1;
+    int k=13;
 
     int low=0,high=n-1,mid;
     bool flag=true;
